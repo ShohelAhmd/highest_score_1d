@@ -1,0 +1,6 @@
+
+function highestScore(score){
+
+
+    
+}
